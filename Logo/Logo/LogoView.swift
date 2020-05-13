@@ -26,7 +26,7 @@ class LogoView: UIView {
     private let fourthBorderCircleColor = UIColor.green
     private let fifthBorderCircleColor = UIColor.red
     
-    private let borderWidth: CGFloat = 2.5
+    private let borderWidth: CGFloat = 5.0
     
     override init(frame: CGRect) {
         super.init(frame: frame)
